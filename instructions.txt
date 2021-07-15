@@ -1,1 +1,4 @@
 Instructions for deplyoing this site to the server
+
+Troubleshooting
+-------------------------------------------------------
